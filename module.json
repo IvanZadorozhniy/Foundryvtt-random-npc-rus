@@ -1,0 +1,41 @@
+{
+  "id": "npc-random-rus",
+  "title": "NPC random (rus)",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12",
+    "maximum": "12"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "tidy5e-sheet",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "The package is contained a macros for easy-way generating npc character's description and appearance",
+  "authors": [
+    {
+      "name": "VakiKrin",
+      "email": "vakikrin@gmail.com",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "macros",
+      "label": "Macros",
+      "path": "packs/macros",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ]
+}
