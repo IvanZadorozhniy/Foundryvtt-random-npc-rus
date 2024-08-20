@@ -38,6 +38,6 @@
     }
   ],
   "url": "https://github.com/IvanZadorozhniy/Foundryvtt-random-npc-rus",
-  "manifest": "https://github.com/IvanZadorozhniy/Foundryvtt-random-npc-rus/blob/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/IvanZadorozhniy/Foundryvtt-random-npc-rus/main/module.json",
   "download": "https://github.com/IvanZadorozhniy/Foundryvtt-random-npc-rus/archive/refs/tags/Release.zip"
 }
